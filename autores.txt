@@ -1,3 +1,8 @@
 
+HEAD
 Karell hdasjb@hotmail.com
 Aldair
+
+autores.txt
+Aldair Karell hdasjb@hotmail.com
+45cb049 (Añadido nuevo autor.)
