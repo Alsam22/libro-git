@@ -1,3 +1,8 @@
 
-[A$[C[C[C[C[Ccat[C[C[C[C[C[C[C[C[Ccat > autores.txt
+HEAD
 Karell hdasjb@hotmail.com
+Aldair
+
+autores.txt
+Aldair Karell hdasjb@hotmail.com
+45cb049 (Añadido nuevo autor.)
